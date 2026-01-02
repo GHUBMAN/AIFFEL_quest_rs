@@ -8,20 +8,19 @@ AIFFEL 과정 중 진행하는 프로젝트, 피어리뷰를 관리하는 Reposi
 
 AIFFEL_quest_rs
 ├── MainQuest
-│   ├── Quest01
-│   │   ├── project.ipynb
-│   │   └── README.md
-│   └── Quest08
-│       ├── project.ipynb
-│       └── README.md
+│ ├── Quest01
+│ │ ├── project.ipynb
+│ │ └── README.md
+│ └── Quest08
+│ ├── project.ipynb
+│ └── README.md
 ├── Exploration
-│   ├── Ex01
-│   └── Ex07
-│       ├── project.ipynb
-│       └── README.md
+│ ├── Ex01
+│ └── Ex07
+│ ├── project.ipynb
+│ └── README.md
 └── GoingDeeper
-    ├── GD01
-    └── GD06
-        ├── project.ipynb
-        └── README.md
-
+├── GD01
+└── GD06
+├── project.ipynb
+└── README.md
